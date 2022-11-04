@@ -33,6 +33,7 @@
       
 
 - 🌱 I’m currently learning Web Development Technologies at 4geeks Academy.
+- 🌍 I'm based in Málaga, Spain.
 - 📫 You can contact me at: 
 
 
