@@ -1,7 +1,7 @@
 
 
 <h1 align = "center"> Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I’m Irene Quero Díaz</h1>
-<h3 align="center">🚀A passionate Full Stack Developer in process🚀</h3>
+<h3 align="center">🚀A passionate Full Stack Developer Jr🚀</h3>
 <p dir="auto"><animated-image data-catalyst="" style="width: 1000px;"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" target="_blank">
@@ -32,7 +32,7 @@
      
       
 
-- 🌱 I’m currently learning Web Development Technologies at 4geeks Academy.
+- 🌱 Full Stack Developer in continuous learning.
 - 🌍 I'm based in Málaga, Spain.
 - 📫 You can contact me at: 
 
