@@ -55,14 +55,15 @@
       </span></animated-image></p>
       
       
-   <h3>¡Bienvenidos a mi perfil!</h3><h5>Acontinuación encontraras numerosos repositorios con los que he ido aprendiendo a escribir código. <br> 
-   Mi proyecto más destacado es "Pet Friends", una web de cuidadores de animales. Puedes ver el proyecto más abajo.</h5>
+<h3>¡Bienvenidos a mi perfil!</h3>
+<p>Acontinuación encontraras numerosos repositorios con los que he ido aprendiendo a escribir código.<br> 
+Mi proyecto más destacado es "Pet Friends", una web de cuidadores de animales. Puedes ver el proyecto más abajo.</p>
       
-Sobre mi:
+<p>Sobre mi:
 
 - 🌱 Full Stack Developer en continuo aprendizaje.
 - 🌍 Málaga, España.
-- 📫 Puedes contactar conmigo aquí: 
+- 📫 Puedes contactar conmigo aquí: </p>
 
 
 
