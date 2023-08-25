@@ -40,6 +40,6 @@
 
   <a href="mailto:queroirene@gmail.com"> <img align="left" alt="gmail" width="22px" src="https://user-images.githubusercontent.com/113913509/200068694-8656b3ca-e8b2-4e7b-b578-317796a1ff45.png" />
 </a>
-  <a href="https://www.linkedin.com/in/irene-quero-920474250/"> <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  <a href="www.linkedin.com/in/irene-quero-díaz-920474250"> <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
