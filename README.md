@@ -56,7 +56,7 @@
       
       
 <h3>¡Bienvenidos a mi perfil!</h3>
-<p>Acontinuación encontraras numerosos repositorios con los que he ido aprendiendo a escribir código.<br> 
+<p>Acontinuación encontraras numerosos repositorios con los que he ido aprendiendo a escribir código desde cero.<br> 
 Mi proyecto más destacado es "Pet Friends", una web de cuidadores de animales. Puedes ver el proyecto más abajo.</p>
       
 <p>Sobre mi:
