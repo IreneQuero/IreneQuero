@@ -69,7 +69,7 @@
 Como Full Stack Developer, he adquirido experiencia en todas las etapas del desarrollo de aplicaciones web, desde el diseño y la implementación del front-end hasta la creación de bases de datos y la gestión del back-end.<br>
 Mi proyecto más destacado es "Pet Friends", una web de cuidadores de animales. Puedes ver el código más abajo.</p>
       
-<p>Sobre mi:
+<p>Sobre mí:
 
 - 🌱 Full Stack Developer en continuo aprendizaje.
 - 🌍 Málaga, España.
