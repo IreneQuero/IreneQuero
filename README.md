@@ -27,7 +27,16 @@
       </span></animated-image></p>
 
 <h1 align = "center"> Hola mundo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Soy Irene Quero</h1>
-<h2 align="center">🚀Full Stack Software Developer🚀</h2>
+<div align="center">
+  <img width="40px" src="https://icongr.am/simple/html5.svg?size=128&color=ff9191&colored=false" />
+  <img width="40px" src="https://icongr.am/simple/css3.svg?size=128&color=ffbf91&colored=false" />
+  <img width="40px" src="https://icongr.am/simple/bootstrap.svg?size=128&color=b6ff91&colored=false" />
+  <img width="40px" src="https://icongr.am/simple/javascript.svg?size=128&color=91ff9a&colored=false" />
+  <img width="40px" src="https://icongr.am/simple/react.svg?size=128&color=91ffc8&colored=false" />
+  <img width="40px" src="https://icongr.am/simple/python.svg?size=128&color=91adff&colored=false" />
+  <img width="40px" src="https://icongr.am/simple/flask.svg?size=128&color=a391ff&colored=false" />
+<img width="40px" src="https://icongr.am/simple/mysql.svg?size=138&color=d191ff&colored=false" />	
+<div/>
 <p dir="auto"><animated-image data-catalyst="" style="width: 1000px;"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" target="_blank">
@@ -54,11 +63,10 @@
         </span>
       </span></animated-image></p>
       
-      
+<div align= "left">     
 <h3>¡Bienvenidos a mi perfil!</h3>
 <p>A continuación encontrarás numerosos repositorios con los que he ido aprendiendo a escribir código desde cero. <br>
 Como Full Stack Developer, he adquirido experiencia en todas las etapas del desarrollo de aplicaciones web, desde el diseño y la implementación del front-end hasta la creación de bases de datos y la gestión del back-end.<br>
-Siempre estoy buscando nuevas formas de mejorar mis habilidades y mantenerme actualizada en las últimas tendencias y tecnologías.<br> 
 Mi proyecto más destacado es "Pet Friends", una web de cuidadores de animales. Puedes ver el código más abajo.</p>
       
 <p>Sobre mi:
@@ -67,10 +75,14 @@ Mi proyecto más destacado es "Pet Friends", una web de cuidadores de animales. 
 - 🌍 Málaga, España.
 - 📫 Puedes contactar conmigo aquí: </p>
 
+</div>
 
-
-  <a href="mailto:queroirene@gmail.com"> <img align="left" alt="gmail" width="22px" src="https://user-images.githubusercontent.com/113913509/200068694-8656b3ca-e8b2-4e7b-b578-317796a1ff45.png" />
-</a>
-  <a href="https://www.linkedin.com/in/irene-quero-díaz-920474250"> <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
+<div align= "left">
+  <a href="mailto:queroirene@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/irene-quero-díaz-920474250" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
