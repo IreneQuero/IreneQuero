@@ -26,7 +26,7 @@
         </span>
       </span></animated-image></p>
 
-<h1 align = "center"> Hola mundo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Soy Irene Quero Díaz</h1>
+<h1 align = "center"> Hola mundo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Soy Irene Quero</h1>
 <h2 align="center">🚀Full Stack Software Developer🚀</h2>
 <p dir="auto"><animated-image data-catalyst="" style="width: 1000px;"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
@@ -56,8 +56,10 @@
       
       
 <h3>¡Bienvenidos a mi perfil!</h3>
-<p>Acontinuación encontraras numerosos repositorios con los que he ido aprendiendo a escribir código desde cero.<br> 
-Mi proyecto más destacado es "Pet Friends", una web de cuidadores de animales. Puedes ver el proyecto más abajo.</p>
+<p>A continuación encontrarás numerosos repositorios con los que he ido aprendiendo a escribir código desde cero. <br>
+Como Full Stack Developer, he adquirido experiencia en todas las etapas del desarrollo de aplicaciones web, desde el diseño y la implementación del front-end hasta la creación de bases de datos y la gestión del back-end.<br>
+Siempre estoy buscando nuevas formas de mejorar mis habilidades y mantenerme actualizada en las últimas tendencias y tecnologías.<br> 
+Mi proyecto más destacado es "Pet Friends", una web de cuidadores de animales. Puedes ver el código más abajo.</p>
       
 <p>Sobre mi:
 
