@@ -64,16 +64,15 @@
       </span></animated-image></p>
       
 <div align= "left">     
-<h3>¡Bienvenidos a mi perfil!</h3>
-<p>A continuación encontrarás numerosos repositorios con los que he ido aprendiendo a escribir código desde cero. <br>
-Como Full Stack Developer Jr, he adquirido experiencia en todas las etapas del desarrollo de aplicaciones web, desde el diseño y la implementación del front-end hasta la creación de bases de datos y la gestión del back-end.<br>
+<h2>¡Bienvenidos a mi perfil de Github!</h2>
+<p>Como Full Stack Developer Jr, he adquirido experiencia en todas las etapas del desarrollo de aplicaciones web, desde el diseño y la implementación del front-end hasta la creación de bases de datos y gestión del back-end. </p>
+<p>Como la vida se trata de ensayo y error, a continuación encontrarás algunos repositorios con los que he ido aprendiendo a escribir código desde cero.</p>
 
-      
-<p>Sobre mí:
+<h4>Tal vez te interese saber que...</h4>
 
-- 🌱 Full Stack Developer en continuo aprendizaje.
-- 🌍 Málaga, España.
-- 📫 Puedes contactar conmigo aquí: </p>
+<p>- 🌱 Soy Full Stack Developer en continuo aprendizaje.</p>
+<p>- 🌍 Vivo en Málaga, España.</p>
+<p>- 📫 Puedes contactar conmigo aquí: </p>
 
 </div>
 
