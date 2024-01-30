@@ -66,8 +66,8 @@
 <div align= "left">     
 <h3>¡Bienvenidos a mi perfil!</h3>
 <p>A continuación encontrarás numerosos repositorios con los que he ido aprendiendo a escribir código desde cero. <br>
-Como Full Stack Developer, he adquirido experiencia en todas las etapas del desarrollo de aplicaciones web, desde el diseño y la implementación del front-end hasta la creación de bases de datos y la gestión del back-end.<br>
-Mi proyecto más destacado es "Pet Friends", una web de cuidadores de animales. Puedes ver el código más abajo.</p>
+Como Full Stack Developer Jr, he adquirido experiencia en todas las etapas del desarrollo de aplicaciones web, desde el diseño y la implementación del front-end hasta la creación de bases de datos y la gestión del back-end.<br>
+
       
 <p>Sobre mí:
 
