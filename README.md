@@ -35,7 +35,14 @@
   <img width="40px" src="https://icongr.am/simple/react.svg?size=128&color=91ffc8&colored=false" />
   <img width="40px" src="https://icongr.am/simple/python.svg?size=128&color=91adff&colored=false" />
   <img width="40px" src="https://icongr.am/simple/flask.svg?size=128&color=a391ff&colored=false" />
-<img width="40px" src="https://icongr.am/simple/mysql.svg?size=138&color=d191ff&colored=false" />	
+<img width="40px" src="https://icongr.am/simple/mysql.svg?size=138&color=d191ff&colored=false" />
+      <br>
+<img width="40px" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
+<img width="40px" src="https://icongr.am/simple/github.svg?size=50&color=ffffff&colored=false" />
+<img width="40px" src="https://icongr.am/simple/gitpod.svg?size=50&color=ff9500&colored=false" />
+<img width="40px" src="https://icongr.am/simple/visualstudio.svg?size=50&color=007bff&colored=false" />
+<img width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+
 <div/>
 <p dir="auto"><animated-image data-catalyst="" style="width: 1000px;"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
@@ -64,15 +71,14 @@
       </span></animated-image></p>
       
 <div align= "left">     
-<h2>¡Bienvenidos a mi perfil de Github!</h2>
-<p>Como Full Stack Developer Jr, he adquirido experiencia en todas las etapas del desarrollo de aplicaciones web, desde el diseño y la implementación del front-end hasta la creación de bases de datos y gestión del back-end. </p>
-<p>Como la vida se trata de ensayo y error, a continuación encontrarás algunos repositorios con los que he ido aprendiendo a escribir código desde cero.</p>
+<p>Full Stack Developer, con experiencia en todas las etapas del desarrollo de aplicaciones web, desde el diseño y la implementación del front-end hasta la creación de bases de datos y gestión del back-end. </p>
 
-<h4>Tal vez te interese saber que...</h4>
+<p> 🌱 En continuo aprendizaje.
 
-<p>- 🌱 Soy Full Stack Developer en continuo aprendizaje.</p>
-<p>- 🌍 Vivo en Málaga, España.</p>
-<p>- 📫 Puedes contactar conmigo aquí: </p>
+      
+</p>
+<p> 🌍 Vivo en Málaga, España.</p>
+<p> 📫 Puedes contactar conmigo aquí: </p>
 
 </div>
 
