@@ -28,20 +28,20 @@
 
 <h1 align = "center"> Hola mundo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Soy Irene Quero</h1>
 <div align="center">
-  <img width="40px" src="https://icongr.am/simple/html5.svg?size=128&color=ff9191&colored=false" />
-  <img width="40px" src="https://icongr.am/simple/css3.svg?size=128&color=ffbf91&colored=false" />
-  <img width="40px" src="https://icongr.am/simple/bootstrap.svg?size=128&color=b6ff91&colored=false" />
-  <img width="40px" src="https://icongr.am/simple/javascript.svg?size=128&color=91ff9a&colored=false" />
-  <img width="40px" src="https://icongr.am/simple/react.svg?size=128&color=91ffc8&colored=false" />
-  <img width="40px" src="https://icongr.am/simple/python.svg?size=128&color=91adff&colored=false" />
-  <img width="40px" src="https://icongr.am/simple/flask.svg?size=128&color=a391ff&colored=false" />
-<img width="40px" src="https://icongr.am/simple/mysql.svg?size=138&color=d191ff&colored=false" />
+  <img width="40px" src="https://icongr.am/simple/html5.svg?size=128&color=ff9191&colored=false" title="HTML"/>
+  <img width="40px" src="https://icongr.am/simple/css3.svg?size=128&color=ffbf91&colored=false" title="CSS"/>
+  <img width="40px" src="https://icongr.am/simple/bootstrap.svg?size=128&color=b6ff91&colored=false" title="Bootstrap"/>
+  <img width="40px" src="https://icongr.am/simple/javascript.svg?size=128&color=91ff9a&colored=false" title="JavaScript"/>
+  <img width="40px" src="https://icongr.am/simple/react.svg?size=128&color=91ffc8&colored=false" title="React"/>
+  <img width="40px" src="https://icongr.am/simple/python.svg?size=128&color=91adff&colored=false" title="Python"/>
+  <img width="40px" src="https://icongr.am/simple/flask.svg?size=128&color=a391ff&colored=false" title="Flask"/>
+<img width="45px" src="https://icongr.am/simple/mysql.svg?size=138&color=d191ff&colored=false" title="MySQL"/>
       <br>
-<img width="40px" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
-<img width="40px" src="https://icongr.am/simple/github.svg?size=50&color=ffffff&colored=false" />
-<img width="40px" src="https://icongr.am/simple/gitpod.svg?size=50&color=ff9500&colored=false" />
-<img width="40px" src="https://icongr.am/simple/visualstudio.svg?size=50&color=007bff&colored=false" />
-<img width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<img width="40px" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" title="Git"/>
+<img width="40px" src="https://icongr.am/simple/github.svg?size=50&color=ffffff&colored=false" title="Github"/>
+<img width="40px" src="https://icongr.am/simple/gitpod.svg?size=50&color=ff9500&colored=false" title="Gitpod"/>
+<img width="40px" src="https://icongr.am/simple/visualstudio.svg?size=50&color=007bff&colored=false" title="VS Code"/>
+<img width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"/>
 
 <div/>
 <p dir="auto"><animated-image data-catalyst="" style="width: 1000px;"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
